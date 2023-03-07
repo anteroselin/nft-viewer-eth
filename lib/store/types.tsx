@@ -1,0 +1,1 @@
+export const OWNER_ADDRESS = "OWNER_ADDRESS";
